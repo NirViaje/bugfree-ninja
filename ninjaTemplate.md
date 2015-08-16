@@ -13,3 +13,4 @@ rt,.
  * http://www.ted.com/talks/ramesh_raskar_a_camera_that_takes_one_trillion_frames_per_second#
 * OpenCTM
  * https://github.com/jcmellado/js-openctm/blob/master/src/ctm.js
+* http://www.zhihu.com/question/19713563
